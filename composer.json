@@ -1,0 +1,33 @@
+{
+    "name": "sunnysideup/themecustomiser",
+    "type": "silverstripe-module",
+    "description": "Allow your theme to be customised.",
+    "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "theme",
+        "themes",
+        "custom",
+        "customisation",
+        "layout",
+        "colours",
+        "fonts",
+        "design",
+        "customiser"
+    ],
+    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.1",
+    },
+    "extra": {
+        "installer-name": "themecustomiser"
+    }
+}
